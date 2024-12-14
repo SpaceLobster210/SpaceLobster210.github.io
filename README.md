@@ -1,6 +1,6 @@
 # Liam Latham
 
-Liam Latham (also known as SpaceLobster21 online) is a musician and indie game developer who is currently studying computer science at the University of Alberta.
+Hello! I am a musician and indie game developer, currently studying computer science at the University of Alberta. My online username is SpaceLobster21, and I love making stuff! This page is a little collection of some of my works. Hope you enjoy!
 
 
 ## Music
