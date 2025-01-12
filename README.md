@@ -9,7 +9,7 @@ Hello! I am a musician and indie game developer, currently studying computer sci
 
 ## Games
 
-<iframe src="https://store.steampowered.com/widget/2388860/?t=Star%20Apprentice%3A%20Dazzling%20Danmaku%20Detective%20by%20Will-o-Works.%20Featuring%20music%20by%20Liam%20Latham.%0A%0A%0A" frameborder="0" width="646" height="190"></iframe>
+<iframe src="https://store.steampowered.com/widget/2388860/" frameborder="0" width="646" height="190"></iframe>
 
 <iframe height="167" frameborder="0" src="https://itch.io/embed/3169440" width="552"><a href="https://vcodes-itch.itch.io/iron-wild-gold">Iron Wild by vcodes-itch</a></iframe>
 
