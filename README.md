@@ -27,3 +27,14 @@ Hello! I am a musician and indie game developer, currently studying computer sci
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3wBi6AY751jWrwghkAHq9c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/48A4zGul20EXRlhJv3OHeP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+## Artworks
+
+(coming soon!)
+
+
+## Tools and Resources
+Some neat free software and other resources for use in your own projects
+
+(coming soon!)
