@@ -15,7 +15,7 @@ Some games that I have contributed to
 
 <iframe height="167" frameborder="0" src="https://itch.io/embed/3169440" width="552"><a href="https://vcodes-itch.itch.io/iron-wild-gold">Iron Wild by vcodes-itch</a></iframe>
 
-[Cowboy.exe Devlog - Milk Man Steve](https://youtu.be/0jTI8UfcY1M?si=hdy1x4TH_is2zAVy)
+[Cowboy.exe Devlog - Milk Man Steve](https://www.youtube.com/watch?v=0jTI8UfcY1M)
 
 
 ## Music
