@@ -9,6 +9,8 @@ Hello! I am a musician and indie game developer, currently studying computer sci
 
 ## Games
 
+Some games that I have contributed to
+
 <iframe src="https://store.steampowered.com/widget/2388860/" frameborder="0" width="646" height="190"></iframe>
 
 <iframe height="167" frameborder="0" src="https://itch.io/embed/3169440" width="552"><a href="https://vcodes-itch.itch.io/iron-wild-gold">Iron Wild by vcodes-itch</a></iframe>
@@ -17,6 +19,8 @@ Hello! I am a musician and indie game developer, currently studying computer sci
 
 
 ## Music
+
+A handful of my favourite compositions so far
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3t9toyjKvcP9e1iz0WgOz4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
