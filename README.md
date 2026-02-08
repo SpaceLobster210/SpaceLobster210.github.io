@@ -63,6 +63,7 @@ Some of my favourite tracks I have composed for various projects
   I added additional visual elements such as "popups" and the flashing smile as well as audio elements such as sound effects, modulations, and stingers in order to create a dynamic experience where the user   constantly feels as though things are happening around them.<br>
   There are 4 main streams of user-controlled audio which correspond with the 4 columns of sliders & dials on the interface. (The 5th column on the far right applies additional effects to these audio streams.)
   This project uses 4-channel audio to emulate a 3D environment around the user and make it feel as though things are happening all around them.<br>
-  The project had a big focus on user experience in addition to the implementation of the "AI gaining sentience" concept. I wanted to craft an experience that felt oppressive to the user and made them feel helpless against what appeared to be happening around them. Much of the project was in a way just a clever illusion.</p>
+  The project had a big focus on user experience in addition to the implementation of the "AI gaining sentience" concept. I wanted to craft an experience that felt oppressive to the user and made them feel helpless against what appeared to be happening around them. Much of the project was in a way just a clever illusion.<br>
+  This video features my friend, Betty Ling!</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5ikWGNthyOw?si=PxXig5lCgb6luTzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
