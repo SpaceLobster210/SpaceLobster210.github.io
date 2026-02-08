@@ -28,8 +28,8 @@ This video details a level I designed, a music track I created for the project, 
 
 ## Solo projects
 
-Electrode
-<p>A game I made in Unity over 4 days for an audio synthesis course at the University of Alberta (MUSIC 445).<br>
+<p>Electrode<br>
+A game I made in Unity over 4 days for an audio synthesis course at the University of Alberta (MUSIC 445).<br>
 The game sends data via OSC signals to a synthesizer I built in VCV Rack as part of the project, synthesizing audio in real time based on what happens in the game.<br>
 The game was set up as an interactive installation/kiosk at our class's Electronic Music festival in early 2025.<br>
 (I apologize for the weird video cropping, there was an issue recording it. I will try to set it back up and get a better recording in the future)</p>
@@ -51,7 +51,7 @@ Some of my favourite tracks I have composed for various projects
 
 ## Other works
 
-<p>Personalize
+<p>Personalize<br>
 An interactive music installation I built in Max MSP over 2 weeks for an interactive audio systems class at the University of Alberta (MUSIC 545).<br>
 I built a simple AI inside of this music software that trains itself on the user's actions in order to slowly "gain sentience" and interfere with the control interface.<br>
 I added additional visual elements such as "popups" and the flashing smile as well as audio elements such as sound effects, modulations, and stingers in order to create a dynamic experience where the user constantly feels as though things are happening around them.<br>
