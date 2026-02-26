@@ -16,7 +16,7 @@ Some games that I have contributed to
 <iframe src="https://store.steampowered.com/widget/2388860/" frameborder="0" width="646" height="190"></iframe>
 
 <p>Iron Wild<br>
-  (Role: musician/audio and programmer)</p>
+  (Role: musician/audio and programmer for enemy ai)</p>
 <iframe height="167" frameborder="0" src="https://itch.io/embed/3169440" width="552"><a href="https://vcodes-itch.itch.io/iron-wild-gold">Iron Wild by vcodes-itch</a></iframe>
 
 <p>Cowboy.exe (working title)<br>
