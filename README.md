@@ -25,8 +25,9 @@ Some games that I have contributed to
 
 <p><br>Get Out - U of A Games Den Telephone Jam 2025<br>
   (Role: musician/audio, art, programming, level design)<br>
-  This video details a level I designed, a music track I created for the project, some art assets I created (attack animation, enemies, sign, lily pads, vines), and some programming work (player's attack and the enemy shown at the end).<br>
+  The video details a level I designed, a music track I created for the project, some art assets I created (attack animation, enemies, sign, lily pads, vines), and some programming work (player's attack and the enemy shown at the end).<br>
   (The telephone jam is a game that gets passed around between different developers with little to no communication between them. I was the second person given access to this game and had a week to add some assets to the project)</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7068goPuUWc?si=-Ocw9Hc6rUgM8lXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe height="167" frameborder="0" src="https://itch.io/embed/4326830" width="552"><a href="https://gamesdenuofa.itch.io/get-out">Get Out! by gamesdenuofa</a></iframe>
 
 
